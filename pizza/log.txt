@@ -1,0 +1,21 @@
+('user1', {'password': 'password1', 'age': 25}) - вход
+Вода - добавлено в корзину
+('user1', {'password': 'password1', 'age': 25}) - вход
+Водка - добавлено в корзину
+('admin', {'password': 'admin', 'age': 30, 'isAdmin': True}) - вход
+Десерт - добавлено в корзину
+('user1', {'password': 'password1', 'age': 25, 'isAdmin': False}) - вход
+Лимонад - добавлено в корзину
+('user1', {'password': 'password1', 'birthyear': 1998, 'isAdmin': False}) - вход
+('user1', {'password': 'password1', 'age': 1998, 'isAdmin': False}) - вход
+Коктейль - добавлено в корзину
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
+('admin', {'password': 'admin', 'age': 1993, 'isAdmin': True}) - вход
