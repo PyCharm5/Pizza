@@ -1,0 +1,108 @@
+{
+    "food": [
+        {
+            "name": "Бургер",
+            "price": 150,
+            "for_minors": true
+        },
+        {
+            "name": "Пицца",
+            "price": 300,
+            "for_minors": true
+        },
+        {
+            "name": "Салат Цезарь",
+            "price": 200,
+            "for_minors": true
+        },
+        {
+            "name": "Стейк",
+            "price": 500,
+            "for_minors": true
+        },
+        {
+            "name": "Суп",
+            "price": 100,
+            "for_minors": true
+        },
+        {
+            "name": "Сэндвич",
+            "price": 120,
+            "for_minors": true
+        },
+        {
+            "name": "Паста",
+            "price": 250,
+            "for_minors": true
+        },
+        {
+            "name": "Роллы",
+            "price": 350,
+            "for_minors": true
+        },
+        {
+            "name": "Десерт",
+            "price": 180,
+            "for_minors": true
+        },
+        {
+            "name": "Картошка фри",
+            "price": 90,
+            "for_minors": true
+        }
+    ],
+    "non_alcoholic_drinks": [
+        {
+            "name": "Кока-Кола",
+            "price": 70,
+            "for_minors": true
+        },
+        {
+            "name": "Сок",
+            "price": 80,
+            "for_minors": true
+        },
+        {
+            "name": "Вода",
+            "price": 50,
+            "for_minors": true
+        },
+        {
+            "name": "Лимонад",
+            "price": 90,
+            "for_minors": true
+        },
+        {
+            "name": "Чай",
+            "price": 60,
+            "for_minors": true
+        }
+    ],
+    "alcoholic_drinks": [
+        {
+            "name": "Пиво",
+            "price": 150,
+            "for_minors": false
+        },
+        {
+            "name": "Вино",
+            "price": 250,
+            "for_minors": false
+        },
+        {
+            "name": "Водка",
+            "price": 300,
+            "for_minors": false
+        },
+        {
+            "name": "Коктейль",
+            "price": 350,
+            "for_minors": false
+        },
+        {
+            "name": "Шампанское",
+            "price": 400,
+            "for_minors": false
+        }
+    ]
+}

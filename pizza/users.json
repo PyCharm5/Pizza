@@ -1,0 +1,32 @@
+{
+    "user1": {
+        "password": "password1",
+        "age": 1998,
+        "isAdmin": false
+    },
+    "user2": {
+        "password": "password2",
+        "age": 2005,
+        "isAdmin": false
+    },
+    "user3": {
+        "password": "password3",
+        "age": 2011,
+        "isAdmin": false
+    },
+    "user4": {
+        "password": "password4",
+        "age": 2014,
+        "isAdmin": false
+    },
+    "user5": {
+        "password": "password5",
+        "age": 1967,
+        "isAdmin": false
+    },
+    "admin": {
+        "password": "admin",
+        "age": 1993,
+        "isAdmin": true
+    }
+}
